@@ -1,0 +1,3 @@
+[submodule "biogeochemical_model/UV_Radiation"]
+	path = biogeochemical_model/UV_Radiation
+	url = https://github.com/mbayder/UV_Radiation_Research_Updated
