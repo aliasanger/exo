@@ -10,6 +10,3 @@ exo/biogeochemical_model contains
 & 
 \
 [UV Radiation](https://github.com/mbayder/UV_Radiation_Research_Updated) by Maria Bayder (mbayder). 
-
-
-exo/genome_survey contains several scripts with flags (does not include data parsing scripts)
